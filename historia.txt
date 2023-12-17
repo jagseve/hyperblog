@@ -1,3 +1,5 @@
 este es mi segunda vez utilizando lar terminal y mi primer comint con git.
 prueba del segundo commit
 
+cambio solo en cabecera
+ahora cambio en master
