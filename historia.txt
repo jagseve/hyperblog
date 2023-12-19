@@ -1,9 +1,5 @@
-este es mi segunda vez utilizando lar terminal y mi primer comint con git.
-prueba del segundo commit
-prueba del segundo commit
+Esta es la historia de Freddy Vega
 
-cambio solo en cabecera
-ahora cambio en master
+Freddy Vega tiene 32 años y nació en Colombia
 
-nuevo cambio en el master
-cambio solo en cabecera
+Mañana nos enfocaremos en su vida laboral
